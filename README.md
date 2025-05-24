@@ -67,8 +67,12 @@ This Parking Lot System manages parking for multiple vehicle types — Cars and 
    ```bash
    java ParkingLotGUI
    ```
+   if you want an app which runs in the console ive added a java file for it aswell
+   the repo consists of 2 java files.
+   1: ParkingLotGUI.java uses swing and awt
+   2: ParkingLotConsoleApp.java uses java and doesnt have a GUI.
 
-3. Use the GUI:
+4. Use the GUI:
 
    * Enter plate number and select vehicle type.
    * Click **"Park Vehicle"** to get a ticket.
